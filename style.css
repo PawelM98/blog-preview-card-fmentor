@@ -157,7 +157,7 @@
     width: fit-content;
   }
 
-  .card__date__group {
+  .card__date {
     font-size: var(--fz-subtext);
   }
 

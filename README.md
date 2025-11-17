@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/PawelM98/blog-preview-card-fmentor)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://blog-preview-card-mentorf.netlify.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned more on how to use design files. Also I read about pixel perfect design and implementation of them [here](). I encourage everybody reading to read joshwcomeau article i linked in this section. It helped me a lot understanding that we should aim for pixel pretty close and with that approach I feel less frustrated about implementing designs.
+I learned more on how to use design files. Also I read about pixel perfect design and implementation of them [here](https://www.joshwcomeau.com/css/pixel-perfection/). I encourage everybody reading to read joshwcomeau article i linked in this section. It helped me a lot understanding that we should aim for pixel pretty close and with that approach I feel less frustrated about implementing designs.
 
 Also i learned from this article how to properly measure spacing and other things. If you are using figma You need to zoom to 100% and then measure what you want and compare with actual implementation.
 
